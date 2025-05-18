@@ -78,7 +78,9 @@ project-root/
 │   ├── raw/
 │   └── cleaned/
 ├── scripts/
-├── visualizations/
+│   └── Queries
+├── reports and visualizations/
+│   ├── Superstore.pbix
 │   └── Superstore_Dashboard.pdf
 ├── README.md
 ```
@@ -88,7 +90,7 @@ project-root/
 ## 🔗 Output
 
 * Cleaned and structured CSVs in the `cleaned/` folder
-* Interactive Power BI Dashboard (PDF version included)
+* Power BI Dashboard (PDF version)
 * SQL queries used for insight generation available in `scripts/`
 
 ---
