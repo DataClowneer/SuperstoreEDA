@@ -105,6 +105,6 @@ project-root/
 
 ## 🔍 Explore More
 
-* [\[Link to LinkedIn post] (https://www.linkedin.com/feed/update/urn:li:share:7329919038158008321/)]
+* [\[Link to LinkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7329919038158008321/)
 
 
