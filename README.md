@@ -21,6 +21,7 @@ This project uses the Superstore dataset to simulate real-world retail data anal
 * **Excel Power Query** was used to clean and format the dataset.
 
   * Standardized decimal columns to 2 decimal places.
+  * Removed duplicates and null values.
   * Fixed inconsistent date formats and ensured proper `Date` types.
   * Removed duplicates and handled missing data.
 * **Created dimension tables**:
